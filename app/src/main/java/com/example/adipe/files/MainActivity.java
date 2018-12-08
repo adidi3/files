@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     InputStream is;
     String file = "file.txt";
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
